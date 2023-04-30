@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="hhttps://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
+  <img alt="HelpGestor logo" src="hhttps://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
 </picture>
 
 
@@ -17,7 +17,7 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 -
 
 ## Conteúdo:
-- [Casos de Uso]()
+- [Casos de Uso](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
 - [Requisitos]()
 
 <!-- atualizar conforme novas necessidades surgirem: -->
