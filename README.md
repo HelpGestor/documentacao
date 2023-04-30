@@ -10,7 +10,7 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 
 <!-- Preencher com nomes completos e @"nome-de-usuário-github" -->
 ## Desenvolvedores:
-- @aTu44       // Arthur Henry Martins Brito
+- [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
 - @RaphMt117   // Rafael Marques e Torres
 - @diasdavizin // Davi de Araújo Dias
 - 
