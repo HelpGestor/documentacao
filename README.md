@@ -18,3 +18,9 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 - [ ] //
 - [ ] //
 - [ ] //
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
+  <img alt="Help Gestor Logo" src="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
+</picture>
