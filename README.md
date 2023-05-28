@@ -1,8 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/1605d7a5f287149b900a206639b37d58b0cdec66/midia/prototipacao.mp4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/1605d7a5f287149b900a206639b37d58b0cdec66/midia/prototipacao.mp4">
-  <img alt="Prototipação" src="https://github.com/HelpGestor/documentacao/blob/1605d7a5f287149b900a206639b37d58b0cdec66/midia/prototipacao.mp4">
-</picture>
+
+https://github.com/HelpGestor/documentacao/assets/128103721/005d75c8-0b1b-4f37-9134-a41e0419d3e7
+
+
 
 
 # O que é HelpGestor?
