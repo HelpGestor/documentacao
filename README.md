@@ -11,10 +11,13 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 <!-- Preencher com nomes completos e @"nome-de-usuário-github" -->
 ## Desenvolvedores:
 - [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
-- [@RaphMt117](https://github.com/RaphMt117)   // Rafael Marques e Torres
+- Daniel Braga Alves do Couto
 - [@diasdavizin](https://github.com/diasdavizin) // Davi de Araújo Dias
-- 
--
+- [@DaviNicoletto](https://github.com/DaviNicoletto) // Davi Nicoletto Ferreira da Silva
+- Henrique Arcaro Silvestre Alves
+- [@Jo4oPedro0](https://github.com/Jo4oPedro0)  // João Pedro Carvalho de Oliveira
+- [@RaphMt117](https://github.com/RaphMt117)   // Rafael Marques e Torres
+- Pedro Antônio Meireles Lopes
 
 ## Conteúdos deste repositório:
 - [Casos de Uso](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
