@@ -1,9 +1,4 @@
 
-https://github.com/HelpGestor/documentacao/assets/128103721/005d75c8-0b1b-4f37-9134-a41e0419d3e7
-
-
-
-
 # O que é HelpGestor?
 HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma IA com o objetivo de ajudar o usuário, além de um sistema básico de criptografia para proteger a integridade dos dados dos pacientes/usuários.
 
