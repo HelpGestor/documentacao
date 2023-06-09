@@ -14,7 +14,7 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 - Pedro Antônio Meireles Lopes
 
 ## Conteúdos deste repositório:
-- [Casos de Uso](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
+- [Casos de Uso](diagramas/caso-de-uso)
 - [Requisitos](requisitos.md)
 - [Modelo Conceitual](modelo-conceitual)
 - [Modelo Físico](modelo-fisico)
