@@ -24,7 +24,7 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 - [Diagrama de atividades](diagramas/diagrama-de-atividade)
 - [Diagrama de classe](diagramas/diagrama-de-classe)
 
-### Banco de dados: 
+### [Banco de dados:](banco-de-dados)
 
 - [Modelo Conceitual](banco-de-dados/modelo-conceitual)
 - [Modelo Físico](banco-de-dados/modelo-fisico)
