@@ -1,9 +1,10 @@
-
 # O que é HelpGestor?
+
 HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma IA com o objetivo de ajudar o usuário, além de um sistema básico de criptografia para proteger a integridade dos dados dos pacientes/usuários.
 
 <!-- Preencher com nomes completos e @"nome-de-usuário-github" -->
 ## Desenvolvedores:
+
 - [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
 - Daniel Braga Alves do Couto
 - [@diasdavizin](https://github.com/diasdavizin) // Davi de Araújo Dias
@@ -14,13 +15,23 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 - Pedro Antônio Meireles Lopes
 
 ## Conteúdos deste repositório:
-- [Casos de Uso](diagramas/caso-de-uso)
+
+### [Requisitos](requisitos.md)
+
 - [Requisitos](requisitos.md)
+
+### Diagramas: 
+
+- [Casos de Uso](diagramas/caso-de-uso)
+- [Diagrama de atividades](diagramas/diagrama-de-atividade)
+- [Diagrama de classe](diagramas/diagrama-de-classe)
+
+### Banco de dados: 
+
 - [Modelo Conceitual](banco-de-dados/modelo-conceitual)
 - [Modelo Físico](banco-de-dados/modelo-fisico)
 - [Script SQL](banco-de-dados/modelo-fisico/script-helpgestor.sql)
-- [Diagrama de atividades](diagramas/diagrama-de-atividade)
-- [Diagrama de classe](diagramas/diagrama-de-classe)
+
 
 <!-- atualizar conforme novas necessidades surgirem: -->
 ## Pendente:
