@@ -1,12 +1,12 @@
 ## Connteúdos: 
 
-[Casos de Uso](diagramas/caso-de-uso)
+- [Casos de Uso](diagramas/caso-de-uso)
 
-[Diagrama de Atividade](diagramas/diagrama-de-atividade)
+- [Diagrama de Atividade](diagramas/diagrama-de-atividade)
 
-[Diagrama de Classe](diagramas/diagrama-de-classe)
+- [Diagrama de Classe](diagramas/diagrama-de-classe)
 
-[Arquivo .asta com diagramas](diagramas/HelpGestor.asta)
+- [Arquivo .asta com diagramas](diagramas/HelpGestor.asta)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/6aeedd347163590b0a55cc206e47ccfdc49b21b7/midia/HelpGestorLogo.png">
