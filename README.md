@@ -18,6 +18,7 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 - [Requisitos](requisitos.md)
 - [Modelo Conceitual](modelo-conceitual)
 - [Modelo Físico](modelo-fisico)
+- [Script SQL](modelo-fisico/script-helpgestor.sql)
 
 <!-- atualizar conforme novas necessidades surgirem: -->
 ## Pendente:
