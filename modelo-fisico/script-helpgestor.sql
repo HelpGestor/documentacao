@@ -42,7 +42,7 @@ CONSTRAINT fk_Paciente_id_estado_civil FOREIGN KEY (id_estado_civil)
 REFERENCES Estado_Civil(id_estado_civil),
 CONSTRAINT fk_Paciente_id_endereco FOREIGN KEY (id_endereco)
 REFERENCES Endereco(id_endereco)
-    );
+);
     
 CREATE INDEX  fk_Paciente_Sexo_idx  ON Paciente(id_sexo);
 CREATE  INDEX fk_Paciente_Estado_Civil_idx ON Paciente(id_endereco);
@@ -98,6 +98,7 @@ REFERENCES Medico(id_medico),
 CONSTRAINT fk_Usuario_id_secretaria FOREIGN KEY (id_secretaria)
 REFERENCES Secretaria(id_secretaria)
 );
+
 CREATE INDEX fk_Usuario_Dentista_idx ON Usuario(id_dentista);
 
 CREATE INDEX fk_Usuario_Medico_idx ON Usuario(id_medico);
@@ -133,5 +134,3 @@ CREATE INDEX fk_Consultas_Medico_idx ON Consultas(id_medico);
 CREATE INDEX fk_Consultas_Secretaria_idx ON Consultas(id_secretaria);
 
 CREATE INDEX fk_Consultas_Paciente_idx ON Consultas(cpf);
-
-
