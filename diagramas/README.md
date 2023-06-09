@@ -1,7 +1,7 @@
 ## Connteúdos: 
 [Casos de Uso](diagramas/caso-de-uso)
 [Diagrama de Atividade](diagramas/diagrama-de-atividade)
-[Diagrama de Classe](diagramas/diagrama-de-classe
+[Diagrama de Classe](diagramas/diagrama-de-classe)
 [Arquivo .asta com diagramas](diagramas/HelpGestor.asta)
 
 <picture>
