@@ -18,9 +18,7 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 
 ### [Requisitos](requisitos.md)
 
-- [Requisitos](requisitos.md)
-
-### Diagramas: 
+### [Diagramas:](diagramas)
 
 - [Casos de Uso](diagramas/caso-de-uso)
 - [Diagrama de atividades](diagramas/diagrama-de-atividade)
