@@ -6,7 +6,7 @@
 
 - [Diagrama de Classe](diagramas/diagrama-de-classe)
 
-- [Diagrama de Sequência]()
+- [Diagrama de Sequência](https://github.com/HelpGestor/documentacao/tree/main/diagramas/diagrama-de-sequencia)
 
 - [Arquivo .asta com diagramas](diagramas/HelpGestor.asta)
 
