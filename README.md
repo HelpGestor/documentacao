@@ -22,6 +22,7 @@ HelpGestor é um site para gerenciar pacientes de uma clínica, o site terá uma
 - [Casos de Uso](diagramas/caso-de-uso)
 - [Diagrama de atividades](diagramas/diagrama-de-atividade)
 - [Diagrama de classe](diagramas/diagrama-de-classe)
+- [Diagrama de Sequência](https://github.com/HelpGestor/documentacao/tree/main/diagramas/diagrama-de-sequencia)
 
 ### [Banco de dados:](banco-de-dados)
 
